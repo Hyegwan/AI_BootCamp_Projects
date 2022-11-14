@@ -1,1 +1,1 @@
-# CodeStates_AI_BootCamp
+# AI_BootCamp_Projects
